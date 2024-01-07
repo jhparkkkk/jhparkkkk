@@ -28,6 +28,9 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40" />
   </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40">
+  </a>
 
 <h3 align="left">Connect with me</h3>
 <a href="https://www.linkedin.com/in/jee-park-aa6101139/" target="_blank" rel="noreferrer">
