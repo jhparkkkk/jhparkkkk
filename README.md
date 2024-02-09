@@ -3,7 +3,7 @@
 
 
 - 🌱 I'm currently learning data science and machine learning
-- 🔭 I’m currently working on [ft_linear_regression](https://github.com/jhparkkkk/ft_linear_regression)
+- 🔭 I’m currently working on [dslr](https://github.com/jhparkkkk/dslr/tree/main) : multinomial logistic regression from scratch in Python
 
 ### EDUCATION
 - 42 Paris, IT architecture expert certification (2021.11.22 ~ 2025.10)
