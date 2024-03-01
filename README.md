@@ -1,12 +1,9 @@
 <h1 align="center">Jee Park</h1>
 <h3 align="center">Data and AI enthusiast</h3>
 
-
+- 🎓 42 Paris, preparing **IT architecture expert certification** (Master's degree)
 - 🌱 I'm currently learning data science and machine learning
-- 🔭 I’m currently working on [dslr](https://github.com/jhparkkkk/dslr/tree/main) : multinomial logistic regression from scratch in Python
-
-### EDUCATION
-- 42 Paris, IT architecture expert certification (2021.11.22 ~ 2025.10)
+- 🔭 I’m currently working on [leaffliction](https://github.com/jhparkkkk/Leaffliction) : Image classification by disease recognition on leaves
 
 <h3 align="left">Languages and Tools</h3>
 <p align="left">
