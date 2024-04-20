@@ -2,7 +2,7 @@
 <h3 align="center">Data and AI enthusiast</h3>
 
 - 🎓 42 Paris, preparing **IT architecture expert certification** (Master's degree)
-- 🌱 I'm currently learning data science and machine learning
+- 🌱 I'm currently learning [django](https://github.com/jhparkkkk/piscine_django) : High-level Python web framework 
 - 🔭 I’m currently working on [leaffliction](https://github.com/jhparkkkk/Leaffliction) : Image classification by disease recognition on leaves (Computer Vision and CNN)
 
 <h3 align="left">Languages and Tools</h3>
