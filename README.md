@@ -43,14 +43,14 @@ Collaborative Tetris where players compete in real-time. Complex state managemen
 <td width="50%">
 
 ### Hypertube
-<img src="./assets/test.webp" width="100%" alt="test Demo"/>
+<img src="./assets/hypertube.webp" width="100%" alt="test Demo"/>
 
-**test**  
-`test` `test` `test`
+**Video Streaming Platform**  
+`React` `Django` `PostgreSQL` `Torrent API`
 
 Netflix-like streaming platform with torrent integration. Real-time video streaming, user authentication, multi-language subtitles,
 
-[View code →](https://github.com/)
+[View code →](https://github.com/jhparkkkk/hypertube)
 
 </td>
 </tr>
