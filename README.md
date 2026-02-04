@@ -36,9 +36,7 @@ Recently graduated from École 42 Paris (January 2026) with an Expert degree in 
 `React` `Redux` `Socket.io` `Node.js`
 
 Collaborative Tetris where players compete in real-time. Complex state management with Redux, WebSocket synchronization, and responsive interface.
-
 [View code →](https://github.com/jhparkkkk/red-tetris)
-
 </td>
 <td width="50%">
 
@@ -61,7 +59,7 @@ Netflix-like streaming platform with torrent integration. Real-time video stream
 ### Gomoku
 <img src="./assets/gomoku.webp" width="100%" alt="Gomoku Demo"/>
 
-**Multiplayer Pong platform**  
+**AI powered strategy game**  
 `NestJS` `PostgreSQL` `Docker` `TypeScript`
 
 Five-in-a-row game with AI opponent. Minimax algorithm with alpha-beta pruning, heuristic evaluation, and optimized game tree search.
