@@ -60,7 +60,7 @@ Netflix-like streaming platform with torrent integration. Real-time video stream
 <img src="./assets/gomoku.webp" width="100%" alt="Gomoku Demo"/>
 
 **AI-powered strategy game**  
-`Python` `Minimax` `Alpha-Beta Pruning`
+`C++` `Minimax` `Alpha-Beta Pruning`
 
 Five-in-a-row game with AI opponent. Minimax algorithm with alpha-beta pruning, heuristic evaluation, and optimized game tree search.
 
