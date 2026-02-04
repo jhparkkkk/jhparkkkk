@@ -20,14 +20,12 @@
 Recently graduated from École 42 Paris (January 2026) with an Expert degree in Computer Architecture (RNCP7), specialized in software development and database architecture. Developed backend data processing systems and REST API integrations on AWS serverless infrastructure during my work-study program at Oreve.
 
 
-🔍 **Actively seeking my first full-time developer position** to launch my career in tech!
-
-
+**Actively seeking my first full-time developer position** to launch my career in tech!
 
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### Red Tetris
 <img src="./assets/red-tetris.webp" width="100%" alt="Red Tetris Demo"/>
@@ -36,17 +34,19 @@ Recently graduated from École 42 Paris (January 2026) with an Expert degree in 
 `React` `Redux` `Socket.io` `Node.js`
 
 Collaborative Tetris where players compete in real-time. Complex state management with Redux, WebSocket synchronization, and responsive interface.
+
 [View code →](https://github.com/jhparkkkk/red-tetris)
+
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### Hypertube
-<img src="./assets/hypertube.webp" width="100%" alt="test Demo"/>
+<img src="./assets/hypertube.webp" width="100%" alt="Hypertube Demo"/>
 
 **Video Streaming Platform**  
 `React` `Django` `PostgreSQL` `Torrent API`
 
-Netflix-like streaming platform with torrent integration. Real-time video streaming, user authentication, multi-language subtitles,
+Netflix-like streaming platform with torrent integration. Real-time video streaming, user authentication, and multi-language subtitles.
 
 [View code →](https://github.com/jhparkkkk/hypertube)
 
@@ -54,31 +54,31 @@ Netflix-like streaming platform with torrent integration. Real-time video stream
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### Gomoku
 <img src="./assets/gomoku.webp" width="100%" alt="Gomoku Demo"/>
 
-**AI powered strategy game**  
-`NestJS` `PostgreSQL` `Docker` `TypeScript`
+**AI-powered strategy game**  
+`Python` `Minimax` `Alpha-Beta Pruning`
 
 Five-in-a-row game with AI opponent. Minimax algorithm with alpha-beta pruning, heuristic evaluation, and optimized game tree search.
 
-[View code →](https://github.com/)
+[View code →](https://github.com/jhparkkkk/gomoku)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### Fix-me
-<img src="./assets/fix-me.webp" width="100%" alt="Fix me demo"/>
+<img src="./assets/fix-me.webp" width="100%" alt="Fix-me Demo"/>
 
 **Financial trading simulator**  
-`Java` `Multi-Threading` `FIX protocol`
+`Java` `Multi-Threading` `FIX Protocol`
 
 Stock market simulator implementing FIX protocol. Multi-threaded broker and router architecture, order matching engine, and real-time market data processing.
 
+[View code →](https://github.com/jhparkkkk/fix-me)
 
-[View code →](https://github.com/)
 </td>
 </tr>
 </table>
